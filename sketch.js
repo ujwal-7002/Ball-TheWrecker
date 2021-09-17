@@ -60,6 +60,8 @@ function draw(){
   box18.display();
   box19.display();
   box20.display();
+  ball.display();
+  rope.display();
   drawSprites();
   mouseDragged();
   mouseReleased();
